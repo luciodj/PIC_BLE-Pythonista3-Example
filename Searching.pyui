@@ -1,0 +1,52 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{165, 144}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "57103EAD-FD90-4470-92A5-58CE67891529",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Searching...",
+          "name" : "Searching ...",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{350, 245}, {101, 36}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_press",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "Quit",
+          "uuid" : "A42956B0-D057-470E-B91C-F8A294FBFEC0",
+          "class" : "Button",
+          "name" : "quit",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
